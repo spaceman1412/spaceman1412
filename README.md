@@ -1,10 +1,19 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=0464F7&center=true&lines=Welcome+to+my+wall;This+is+Thien+Nguyen">
+  </a>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>,
-and learning programming through small projects on the side.
+<p align="center">
+  <br>
+    🔭 I’m currently third-year student at Ho Chi Minh City University of Technology and Education
+  <br>
+    💻 I’m currently learning Android Development
+  <br>
+    📫 How to reach me: thiennguyen-it@protonmail.com
+  <br>
+    ⚡ Fun fact: I love to learn new Mobile Development Technology
+</p>
 
 <br>
 
