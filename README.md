@@ -37,7 +37,8 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
- <a> [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=5r0bqksncuu1laz42oielo1eq)](https://open.spotify.com/user/5r0bqksncuu1laz42oielo1eq)
+  <a href="https://open.spotify.com/user/5r0bqksncuu1laz42oielo1eq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5r0bqksncuu1laz42oielo1eq" width="240px">
   </a>
 </div>
 
@@ -60,7 +61,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=spaceman1412&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/spaceman1412)
+[![spaceman1412's Activity Graph](https://activity-graph.herokuapp.com/graph?username=spaceman1412&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/spaceman1412)
 
 ---
 
