@@ -6,7 +6,7 @@
 
 <p align="center">
   <br>
-    🔭 I’m currently third-year student at Ho Chi Minh City University of Technology and Education
+    🔭 I’m currently third-year IT student at Ho Chi Minh City University of Technology and Education
   <br>
     💻 I’m currently learning Android Development
   <br>
