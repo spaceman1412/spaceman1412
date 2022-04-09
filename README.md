@@ -28,21 +28,21 @@
 </div>
 </p>
 
-```python
-class AbhigyanTrips():
+```kotlin
+class spaceman1412 {
+    val name: String = "Thien Nguyen"
+    val usersname: String = "spaceman1412"
+    val location: String = "HCM, VietNam"
+    val linkedin: String = "https://www.linkedin.com/in/thien-nguyen-88544b12a/"
 
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+}
 
-  def __str__(self):
-    return self.name
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
+fun main() {
+    val me = spaceman1412()
+    println(me.name)
+}
+
 ```
 
 <div align="center">
@@ -70,7 +70,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![spaceman1412's Activity Graph](https://activity-graph.herokuapp.com/graph?username=spaceman1412&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/spaceman1412)
+[![spaceman1412's Activity Graph](https://activity-graph.herokuapp.com/graph?username=spaceman1412&custom_title=spaceman1412's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/spaceman1412)
 
 ---
 
