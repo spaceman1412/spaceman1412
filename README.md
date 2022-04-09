@@ -36,7 +36,10 @@ if __name__ == '__main__':
     me = AbhigyanTrips()
 ```
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=5r0bqksncuu1laz42oielo1eq)](https://open.spotify.com/user/5r0bqksncuu1laz42oielo1eq)
+<div align="center">
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=5r0bqksncuu1laz42oielo1eq)](https://open.spotify.com/user/5r0bqksncuu1laz42oielo1eq)
+  
+</div>
 
 <!--
 <div align="center">
@@ -50,9 +53,9 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/spaceman1412">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=spaceman1412&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=spaceman1412&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
