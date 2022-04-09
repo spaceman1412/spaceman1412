@@ -34,7 +34,6 @@ class spaceman1412 {
     val usersname: String = "spaceman1412"
     val location: String = "HCM, VietNam"
     val linkedin: String = "https://www.linkedin.com/in/thien-nguyen-88544b12a/"
-
 }
 
 
