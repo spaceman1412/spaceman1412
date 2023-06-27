@@ -12,7 +12,7 @@
   <br>
     📫 How to reach me: thiennguyen-it@protonmail.com
   <br>
-    ⚡ Fun fact: I love to learn new Mobile Development Technology
+    ⚡ Fun fact: My guitar skill is quite good LOL!
 </p>
 
 <br>
